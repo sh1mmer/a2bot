@@ -1,0 +1,51 @@
+
+normalize databases, add '<database> add' feature
+  e.g. lart add "..."
+
+[in X, every X, at Y, ...]
+show list of scheduled events
+
+google chart of zattoo usage (using nagios report, and normalize_pct.py)
+dec 30 07:
+http://chart.apis.google.com/chart?cht=t&chs=440x220&chtm=europe&chf=bg,s,add8e6&chco=ffffff,ffd000,ff1000&chld=CHGBESDKDEBENO&chd=t:82.3,0.9,100.0,4.1,26.9,3.3,2.2
+
+may 1 08:
+http://chart.apis.google.com/chart?cht=t&chs=440x220&chtm=europe&chf=bg,s,add8e6&chco=ffffff,ffd000,ff1000&chld=CHGBESDKFRDEBENO&chd=t:69.6,2.0,100.0,4.2,4.2,42.6,6.5,2.4
+
+longer-term analytics, like pisg
+  - pottymouth
+  - angry
+  - sad
+  - happy
+
+split network agent from bot
+  - parent just keeps IRC connection
+  - 'reload' command performs svn/hg update and child restart
+
+blootbot.randtext
+
+units
+
+fud command?
+
+append to facts
+  x is also y
+  x is also |y
+
+arg, hrr, doh (use <action> to set)
+
+scrum?
+
+praise
+
+infobot fact packs
+
+google
+
+aggis
+
+dict
+
+subsidy stats (e.g. top channels, summary channel switches, ad
+impressions, etc.)
+

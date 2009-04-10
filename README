@@ -1,0 +1,9 @@
+
+Dependencies:
+
+  - simplejson (if Python < 2.5)
+  - Python-GeoIP and GeoIP
+
+To run:
+
+    python a2bot.py <ircserver>[:<port>]
